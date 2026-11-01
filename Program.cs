@@ -1,5 +1,7 @@
 ﻿using System;
 
+//an edit grom the GITHUB
+
 class clsCalculator
 {
 
