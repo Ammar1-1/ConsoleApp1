@@ -8,6 +8,7 @@ namespace ConsoleApp1
         string family = "Alhaj";
 
         public string PlaceOFBirth  { get; set; }
+        public string Nation { get; } = "Iraq";
 
     }
 }
