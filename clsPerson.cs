@@ -7,6 +7,7 @@ namespace ConsoleApp1
        string name = "Ammar";
         string family = "Alhaj";
 
-        
+        public string PlaceOFBirth  { get; set; }
+
     }
 }
