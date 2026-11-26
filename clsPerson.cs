@@ -4,8 +4,8 @@ namespace ConsoleApp1
 {
     public class clsPerson
     {
-       string name = "Ammar";
-        string family = "Alhaj";
+        public string Name { get; } = "Ammar";
+        public string Family { get; } = "Alhaj";
 
         public string PlaceOFBirth  { get; set; }
         public string Nation { get; } = "Iraq";
