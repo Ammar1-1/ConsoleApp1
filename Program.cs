@@ -16,6 +16,10 @@ namespace ConsoleApp1
 
             System.Console.WriteLine("from VS code");
             int maxNUM = 10;
+            Console.WriteLine("from VS code");
+
+            
+
         }
     }
 }
